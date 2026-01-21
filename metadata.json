@@ -1,0 +1,5 @@
+{
+  "name": "API → Instant Admin Panel",
+  "description": "A dynamic admin dashboard generator that transforms any REST API endpoint into a fully functional, data-rich management interface using automated schema detection and AI-enhanced UI decisions.",
+  "requestFramePermissions": []
+}
